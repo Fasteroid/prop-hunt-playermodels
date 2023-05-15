@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\obiwan\obiwan_body"
+	$nocull 1
+}

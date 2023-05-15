@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\obiwan\obiwan_hair"
+	$nocull 1
+}
