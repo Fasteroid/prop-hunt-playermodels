@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ij2/ss_harley/suicide_harley"
+	"$bumpmap" "models/ij2/ss_harley/suicide_harley_normal"
+
+    $phong 1
+    $phongexponent 150
+    $phongexponenttexture "models/ij2/ss_harley/suicide_harley_spec"
+    $phongboost    1
+    $phongfresnelranges    "[0.06 0.5 15]"
+}
