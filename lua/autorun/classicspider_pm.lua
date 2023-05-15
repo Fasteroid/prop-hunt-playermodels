@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "Classic Spider-Man", "models/player/nogitsu/classicspider/classicspider_pm.mdl" )
+list.Set( "PlayerOptionsModel", "Classic Spider-Man", "models/player/nogitsu/classicspider/classicspider_pm.mdl" )

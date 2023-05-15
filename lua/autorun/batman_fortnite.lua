@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "[K] Batman: Fortnite", "models/kryptonite/batman_fortnite/batman_fortnite.mdl" ) 
+list.Set( "PlayerOptionsModel",  "[K] Batman: Fortnite", "models/kryptonite/batman_fortnite/batman_fortnite.mdl" ) 

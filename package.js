@@ -31,7 +31,7 @@ async function main(){
         if( !isDir(path) ){ continue; }
         console.log(path)
         await syncExec(`xcopy ${path} . /e /d /y /h /r /c /q`, console.log)
-        await syncExec(`git add . & git commit -m${addon}`, console.log)
+        await syncExec(`git add . & git commit -m lua_${addon}`, console.log)
     }
 } 
 main()

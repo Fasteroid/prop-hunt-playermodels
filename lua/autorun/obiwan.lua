@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "Obi-Wan Kenobi (Episode III)", "models/player/obiwan/obiwan_est.mdl" )
+list.Set( "PlayerOptionsModel", "Obi-Wan Kenobi (Episode III)", "models/player/obiwan/obiwan_est.mdl" )

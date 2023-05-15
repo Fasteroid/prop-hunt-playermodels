@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "Boxman", "models/vinrax/player/boxman_player.mdl" );
