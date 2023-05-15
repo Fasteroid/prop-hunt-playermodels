@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\dusty/avengers/civilwar/characters/captainamerica/Captain_America_Face_D"
+                "$bumpmap"    "models\dusty/avengers/civilwar/characters/captainamerica/Captain_America_Face_n"
+	"$phong" "1"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[.3 1 48]"
+	"$phongexponent" "5"
+	"$lightwarptexture" 	"models\dusty/avengers/Shared/Detail/lightwarp_flesh"
+	"$nocull" "1"
+	"$detail" "models/dusty/avengers/Shared/Detail/detail_flesh"
+	"$detailscale" "3"
+	"$detailblendfactor" "1"
+	"$detailblendmode" "0"
+}
+
+
+
+
+
+

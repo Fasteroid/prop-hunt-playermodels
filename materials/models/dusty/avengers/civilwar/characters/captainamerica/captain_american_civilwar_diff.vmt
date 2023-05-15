@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dusty/avengers/civilwar/characters/captainamerica/captain_american_civilwar_d"
+	"$bumpmap" "models/dusty/avengers/civilwar/characters/captainamerica/captain_american_civilwar_n"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint"	"[.1 .1 .1]"
+	"$phong" "1"
+	"$phongboost" "20"
+//	"$phongexponent" "5"
+	"$phongexponenttexture" "models/dusty/avengers/civilwar/characters/captainamerica/captain_american_civilwar_phong"
+	"$phongalbedotint" "5"
+	"$phongfresnelranges" "[.5 .5 .5]"
+	"$model" "1"
+}

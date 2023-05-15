@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dusty/avengers/civilwar/characters/ironman/damaged/dmg_body_light_d"
+	"$bumpmap" "models/dusty/avengers/civilwar/characters/ironman/body_n"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint"	"[.1 .1 .1]"
+	"$phong" "1"
+	"$phongboost" "15"
+//	"$phongexponent" "5"
+	"$phongexponenttexture" "models/dusty/avengers/civilwar/characters/ironman/body_phong"
+	"$phongalbedotint" "5"
+	"$phongfresnelranges" "[.5 .5 .5]"
+	"$lightwarptexture" "models/dusty/avengers/shared/detail/lightwarp_metallic"
+	"$model" "1"
+	"$selfillum" "1"
+}

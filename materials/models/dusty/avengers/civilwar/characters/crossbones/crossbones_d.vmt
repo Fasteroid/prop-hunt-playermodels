@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dusty/avengers/civilwar/characters/crossbones/crossbones_d"
+	"$bumpmap" "models/dusty/avengers/civilwar/characters/crossbones/crossbones_n"
+	"$phong" "1"
+	"$phongboost" "0.5"
+	"$phongexponent" "3"
+	"$phongtint" "1 1 1"
+	"$phongfresnelranges" "[.5 .5 .5]"
+	"$model" "1"
+	"$nocull" "1"
+}
