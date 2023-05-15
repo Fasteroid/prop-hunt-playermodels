@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+$basetexture "models/ZeroPunctuation/tired"
+$bumpmap "models/ZeroPunctuation/normalwarp"
+$lightwarptexture "models/ZeroPunctuation/lightwarp"
+"$blendtintbybasealpha" "1"
+"$blendtintcoloroverbase" "0"
+
+Proxies
+{
+PlayerColor
+{
+resultVar $color2
+default 0.75 0.75 0.75
+}
+} 
+}

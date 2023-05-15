@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+$basetexture "models/ZeroPunctuation/zombie"
+$bumpmap "models/ZeroPunctuation/normalwarp"
+$lightwarptexture "models/ZeroPunctuation/lightwarp"
+}
