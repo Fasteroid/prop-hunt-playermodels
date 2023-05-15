@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/krypto/batman_fortnite/T_M_MED_BlackMonday_Houston_FaceAcc_D"
+	"$bumpmap" "models/krypto/batman_fortnite/T_M_MED_BlackMonday_Houston_FaceAcc_N"
+                "$phongexponenttexture" "models/krypto/batman_fortnite/T_M_MED_BlackMonday_Houston_FaceAcc_S"
+
+"$phong" "1"
+"$phongboost" ".5"
+"$phongfresnelranges" "[0.15 0.5 1]"
+
+"$color2" "[0.9 0.9 0.9]"
+"$detail" "models/krypto/batman_fortnite/T_M_MED_BlackMonday_Houston_FaceAcc_S"
+"$detailscale" "1"	
+"$detailblendmode" "0"
+"$detailblendfactor" "0.1"
+
+"$model" "1"
+"$ambientocclusion" "1"
+"$ambientoccltexture" "models/krypto/batman_fortnite/T_M_MED_BlackMonday_Houston_FaceAcc_L"
+"$ambientocclusiontexture" "models/krypto/batman_fortnite/T_M_MED_BlackMonday_Houston_FaceAcc_L"
+
+"$rimlight" "1" 
+"$rimlightexponent" "1" 
+"$rimlightboost" "1" 
+"$rimmask" "1"
+}
