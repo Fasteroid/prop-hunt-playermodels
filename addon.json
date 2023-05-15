@@ -1,9 +1,9 @@
 {
-  "title": "Mr. Meeseeks playermodel",
-  "type": "model",
-  "tags": [
-    "cartoon",
-    "fun"
-  ],
-  "ignore": []
+	"title"		:	"Infinity x Evolution Playermodels Pack",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "roleplay", "fun" ],
+	"ignore"	:
+	[
+		".git/**/**"
+	]
 }
