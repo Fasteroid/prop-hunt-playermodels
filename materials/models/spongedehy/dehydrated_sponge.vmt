@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/spongedehy/dehydrated_sponge"
+	"$nocull" 1
+}
