@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/ezio/CU_Ezio_HidenBlade2_DiffuseMap"
+	"$bumpmap" "models/player/ezio/CU_Ezio_HidenBlade2_NormalMap"
+	"$nocull" 1
+	"$halflambert" 1
+
+	"$normalmapalphaenvmapmask" 1
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "10"
+	"$phongfresnelranges" "[0.1 0.2 0.5]"
+}
