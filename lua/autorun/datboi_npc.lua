@@ -1,3 +1,0 @@
-local Category = "Humans + Resistance" local NPC = { Name = "datboi", Class = "npc_citizen", Model = "models/datboi/datboi_reference.mdl", Health = "150", KeyValues = { citizentype = 4 }, Category = Category } list.Set( "NPC", "npc_datboi", NPC )
-
-local Category = "Combine" local NPC = { Name = "datboi", Class = "npc_combine_s", Model = "models/datboi/datboi_reference.mdl", Category = Category } list.Set( "NPC", "npc_baddatboi", NPC )
