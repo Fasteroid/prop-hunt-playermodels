@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/Spiderman/ClassicSpider/Classic_d"
+	"$bumpmap" "models/Spiderman/Classicspider/Classic_n"
+	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongexponent" 20
+	"$phongboost"	".25"
+	"$phongfresnelranges"	"[1 1 1]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .2 .2 .2 ]"
+	"$envmapsaturation" "1"
+	"$envmapcontrast" "1"
+}
+

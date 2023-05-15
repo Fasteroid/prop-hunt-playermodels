@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Spiderman/60spider/poster"
+	"$bumpmap" "models/Spiderman/60spider/poster_n"
+
+	"$phong" "1"
+	"$phongexponent" 20
+	"$phongboost"	".25"
+	"$phongfresnelranges"	"[0.1 0.5 1]"
+
+	"$alphatest" "1"
+}
