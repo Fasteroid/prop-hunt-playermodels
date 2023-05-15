@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\mcfly\rubyRose\kami"
+	"$bumpmap" "models\mcfly\rubyRose\normal"
+
+	"$lightwarptexture" "models\mcfly\rubyRose\skinwarp"
+	"$nodecal" "1"
+	"$nocull" "1"
+	"$PhongExponent" "100"
+//	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+
+
+}
